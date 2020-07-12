@@ -1,0 +1,27 @@
+{
+  "name": "v-on-touch",
+  "version": "1.0.0",
+  "description": "移动端手势指令，含点击、单击、双击、长按、滑动、拖动、捏合、旋转、多点触控等，适用于 vue2.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocobk/v-on-touch.git"
+  },
+  "keywords": [
+    "vue",
+    "touch",
+    "swipe",
+    "double tap",
+    "finger",
+    "directive"
+  ],
+  "author": "mocobk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mocobk/v-on-touch/issues"
+  },
+  "homepage": "https://github.com/mocobk/v-on-touch#readme"
+}
